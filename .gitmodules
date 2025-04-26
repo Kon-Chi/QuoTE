@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/kon-chi/quote-frontend
+[submodule "ot"]
+	path = ot
+	url = https://github.com/kon-chi/quote-ot
