@@ -1,6 +1,6 @@
 # Collaborative Text Editor - QuoTE (Scala/ZIO)
 
-![Editor Screenshot](./editor-screenshot.png) <!-- Replace with actual image -->
+![Editor Screenshot](./ref.png) <!-- Replace with actual image -->
 
 A real-time collaborative text editor built with Scala (ZIO) and Scala.js, powered by Redis for persistent document storage.
 
