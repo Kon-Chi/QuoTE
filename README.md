@@ -17,7 +17,7 @@ A real-time collaborative text editor built with Scala (ZIO) and Scala.js, power
 | Component       | Technology                          |
 |----------------|-----------------------------------|
 | Backend        | Scala 3 + ZIO 2 + ZIO HTTP         |
-| Frontend       | Scala.js + Laminar                 |
+| Frontend       | Scala.js + Monadic HTML                 |
 | Database       | Redis 7 (persistent document storage) |
 | Real-time Sync | WebSockets + Custom OT algorithms  |
 
