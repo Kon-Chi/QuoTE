@@ -30,8 +30,7 @@ A real-time collaborative text editor built with Scala (ZIO) and Scala.js, power
 
 1. **QuoTE server (docker)**
 
-    Clone `backend` repository on your host. After this, use 
-
+    Clone `backend` repository on your host. After this, use <br>
     `docker load -i quote.tar` inside of `backend` directory, and finally build & up docker containers: 
     `docker-compose build && docker-compose up -d`
 
